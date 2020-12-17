@@ -5,6 +5,6 @@ This template is using vanilla bootstrap for the responsive behavior. Just downl
 
 If you want to change the color scheme from the default blue there is a scss file included that you can use to change the primary color with SASS. You will need the complete bootstrap download for this to work.
 
-### Example:
+### Example
 
-[http://ludwigguenther.de/]()
+This template is used on my own [portfolio](http://www.ludwigguenther.de/).
