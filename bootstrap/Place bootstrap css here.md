@@ -1,0 +1,1 @@
+# Place your bootstrap.css file in this folder or change the path in the html files
